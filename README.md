@@ -88,6 +88,7 @@ postcard-zip-code-frame.jsx / postcard-zip-code-frame-stroke.jsx
 postage-payment-method.jsx  
 リリース：2021.06.27  
 アップデート：2021.07.14 postage-payment-method.jsx を同梱
+再リリース：2022.01.25
 
 Copyright (C) 2021 Katsushi Nakamura
 
